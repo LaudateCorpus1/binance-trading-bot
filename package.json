@@ -59,7 +59,7 @@
     "moment-timezone": "^0.5.33",
     "mongodb": "4.1.0",
     "pubsub-js": "^1.9.3",
-    "qs": "^6.7.0",
+    "qs": "^6.7.3",
     "rate-limiter-flexible": "^2.2.4",
     "redlock": "^4.2.0",
     "request-ip": "^2.1.3",
