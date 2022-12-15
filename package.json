@@ -47,7 +47,7 @@
     "cors": "^2.8.5",
     "cron": "^1.8.2",
     "cross-env": "^7.0.3",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "husky": "^7.0.1",
     "ioredis": "^4.27.7",
     "jsonwebtoken": "^8.5.1",
